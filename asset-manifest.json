@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/quizOclock/static/css/main.5e80a523.css",
+    "main.js": "/quizOclock/static/js/main.1d94cdef.js",
+    "index.html": "/quizOclock/index.html",
+    "main.5e80a523.css.map": "/quizOclock/static/css/main.5e80a523.css.map",
+    "main.1d94cdef.js.map": "/quizOclock/static/js/main.1d94cdef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e80a523.css",
+    "static/js/main.1d94cdef.js"
+  ]
+}
